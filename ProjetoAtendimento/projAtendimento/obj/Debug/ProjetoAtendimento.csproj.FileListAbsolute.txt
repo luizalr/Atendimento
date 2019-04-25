@@ -1,0 +1,10 @@
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe.config
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.pdb
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.Views.Atendimento.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.pdb
